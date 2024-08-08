@@ -1,0 +1,52 @@
+[
+  {
+    "imageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Delicious Food 1",
+    "address": "123 Food Street, Foodville",
+    "timings": "9:00 AM - 10:00 PM",
+    "distance": "2.5 km",
+    "minOrder": "$10",
+    "rating": 4.5,
+    "reviews": 120
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Tasty Dish 2",
+    "address": "456 Cuisine Avenue, Tastetown",
+    "timings": "10:00 AM - 11:00 PM",
+    "distance": "3.2 km",
+    "minOrder": "$15",
+    "rating": 4.2,
+    "reviews": 85
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Tasty Dish 3",
+    "address": "789 Flavor Street, Yummyville",
+    "timings": "11:00 AM - 10:00 PM",
+    "distance": "1.8 km",
+    "minOrder": "$12",
+    "rating": 4.7,
+    "reviews": 150
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Gourmet Delight 4",
+    "address": "101 Culinary Lane, Gourmetville",
+    "timings": "12:00 PM - 11:00 PM",
+    "distance": "4.0 km",
+    "minOrder": "$20",
+    "rating": 4.8,
+    "reviews": 200
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/1410236/pexels-photo-1410236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Savory Bites 5",
+    "address": "202 Taste Boulevard, Flavortown",
+    "timings": "8:00 AM - 9:00 PM",
+    "distance": "3.5 km",
+    "minOrder": "$8",
+    "rating": 4.3,
+    "reviews": 95
+  }
+]
