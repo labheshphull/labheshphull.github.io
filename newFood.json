@@ -1,0 +1,47 @@
+[
+  {
+    "imageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Delicious Food 1",
+    "description": "123 Food Street, Foodville",
+    "rating": 4.5,
+    "reviews": 120,
+    "deliveryTime": "30-40 min",
+    "categories": ["Fast Food", "American"]
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Tasty Dish 2",
+    "description": "456 Cuisine Avenue, Tastetown",
+    "rating": 4.2,
+    "reviews": 85,
+    "deliveryTime": "25-35 min",
+    "categories": ["Italian", "Pizza"]
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Tasty Dish 3",
+    "description": "789 Flavor Street, Yummyville",
+    "rating": 4.7,
+    "reviews": 150,
+    "deliveryTime": "20-30 min",
+    "categories": ["Mexican", "Tacos"]
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Gourmet Delight 4",
+    "description": "101 Culinary Lane, Gourmetville",
+    "rating": 4.8,
+    "reviews": 200,
+    "deliveryTime": "35-45 min",
+    "categories": ["French", "Fine Dining"]
+  },
+  {
+    "imageUrl": "https://images.pexels.com/photos/1410236/pexels-photo-1410236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Savory Bites 5",
+    "description": "202 Taste Boulevard, Flavortown",
+    "rating": 4.3,
+    "reviews": 95,
+    "deliveryTime": "15-25 min",
+    "categories": ["Asian", "Sushi"]
+  }
+]
