@@ -1,0 +1,122 @@
+{
+  "trending_cards": [
+    {
+      "trendingTitle": "Burger Kings",
+      "trendingSubtitle": "Phasellus accumsan imperdiet tempor. Cras tincidunt, arcu nec eleifend porttitor, orci est vehicula",
+      "trendingImageUrl": "https://cdn.magicpin.com/videos/30507657-7b5c-49a2-a2ab-50939f99a489_563cb7b5-b1ff-4500-9b2e-c27374b478b4/thumbnail.jpg",
+      "trendingDiscount": "25% OFF"
+    },
+    {
+      "trendingTitle": "Pizza Mania",
+      "trendingSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "trendingImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "trendingDiscount": "15% OFF"
+    },
+    {
+      "trendingTitle": "Pizza Mania",
+      "trendingSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "trendingImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "trendingDiscount": "15% OFF"
+    },
+    {
+      "trendingTitle": "Pizza Mania",
+      "trendingSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+      "trendingImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAalTBRa9XrGVDbHJVPbJFmJc-jelDmtxyw&s",
+      "trendingDiscount": "15% OFF"
+    }
+  ],
+  "food_cards": [
+    {
+      "foodCardImageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodCardTitle": "Delicious Food 1",
+      "foodAddress": "123 Food Street, Foodville",
+      "foodTimings": "9:00 AM - 10:00 PM",
+      "foodDistance": "2.5 km",
+      "foodMinOrder": "$10",
+      "foodRating": 4.5,
+      "foodReviews": 120
+    },
+    {
+      "foodCardImageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodCardTitle": "Tasty Dish 2",
+      "foodAddress": "456 Cuisine Avenue, Tastetown",
+      "foodTimings": "10:00 AM - 11:00 PM",
+      "foodDistance": "3.2 km",
+      "foodMinOrder": "$15",
+      "foodRating": 4.2,
+      "foodReviews": 85
+    },
+    {
+      "foodCardImageUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodCardTitle": "Tasty Dish 3",
+      "foodAddress": "789 Flavor Street, Yummyville",
+      "foodTimings": "11:00 AM - 10:00 PM",
+      "foodDistance": "1.8 km",
+      "foodMinOrder": "$12",
+      "foodRating": 4.7,
+      "foodReviews": 150
+    },
+    {
+      "foodCardImageUrl": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodCardTitle": "Gourmet Delight 4",
+      "foodAddress": "101 Culinary Lane, Gourmetville",
+      "foodTimings": "12:00 PM - 11:00 PM",
+      "foodDistance": "4.0 km",
+      "foodMinOrder": "$20",
+      "foodRating": 4.8,
+      "foodReviews": 200
+    },
+    {
+      "foodCardImageUrl": "https://images.pexels.com/photos/1410236/pexels-photo-1410236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "foodCardTitle": "Savory Bites 5",
+      "foodAddress": "202 Taste Boulevard, Flavortown",
+      "foodTimings": "8:00 AM - 9:00 PM",
+      "foodDistance": "3.5 km",
+      "foodMinOrder": "$8",
+      "foodRating": 4.3,
+      "foodReviews": 95
+    }
+  ],
+  "merchants": [
+    {
+      "merchantImageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "merchantTitle": "AT&T",
+      "merchantAddress": "Sector 20, Chandigarh",
+      "merchantTimings": "45 mins • 1PM to 10PM",
+      "merchantDistance": "3.2 km",
+      "merchantMinOrder": "F100.00",
+      "merchantRating": 4.5,
+      "merchantReviews": 2000
+    },
+    {
+      "merchantImageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "merchantTitle": "AT&T",
+      "merchantAddress": "Sector 20, Chandigarh",
+      "merchantTimings": "45 mins • 1PM to 10PM",
+      "merchantDistance": "3.2 km",
+      "merchantMinOrder": "F100.00",
+      "merchantRating": 4.5,
+      "merchantReviews": 2000
+    },
+    {
+      "merchantImageUrl": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "merchantTitle": "AT&T",
+      "merchantAddress": "Sector 20, Chandigarh",
+      "merchantTimings": "45 mins • 1PM to 10PM",
+      "merchantDistance": "3.2 km",
+      "merchantMinOrder": "F100.00",
+      "merchantRating": 4.5,
+      "merchantReviews": 2000
+    },
+    {
+      "merchantImageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "merchantTitle": "AT&T",
+      "merchantAddress": "Sector 20, Chandigarh",
+      "merchantTimings": "45 mins • 1PM to 10PM",
+      "merchantDistance": "3.2 km",
+      "merchantMinOrder": "F100.00",
+      "merchantRating": 4.5,
+      "merchantReviews": 2000
+    }
+  ]
+}
